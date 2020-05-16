@@ -1,1 +1,1 @@
-# 02512 Image Analysis Challenge: Finding DTU signs in given photos
+# 02512 Image Analysis Challenge: Looking for DTU signs in given photos
